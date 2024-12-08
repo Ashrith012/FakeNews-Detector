@@ -40,4 +40,10 @@ This project implements a Fake News Detection System using Natural Language Proc
 * Templates: HTML files for rendering pages such as login, upload, and results display.
 * Static: CSS and other static assets.
 
+## Future Enhancements
+* Integrate a more advanced machine learning model for improved accuracy.
+* Add support for multiple languages.
+* Build a user-friendly dashboard for detailed analytics.
 
+## License
+This project is licensed under the MIT License.
