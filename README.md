@@ -5,11 +5,11 @@ This project implements a Fake News Detection System using Natural Language Proc
 
 # Features
 * Admin Login: Secure access for administrators to manage the system. <br/>
-. News Document Upload: Upload news articles for evaluation.
-. Fake News Detector Algorithm:
-  . Extracts quotes, verbs, and named entities.
-  . Applies a Naive Bayes algorithm to calculate a Fake Rank Score.
-. Classification Results: Displays detection results with corresponding scores.
+* News Document Upload: Upload news articles for evaluation. <br/>
+* Fake News Detector Algorithm: <br/>
+    * Extracts quotes, verbs, and named entities.<br/>
+    * Applies a Naive Bayes algorithm to calculate a Fake Rank Score.<br/>
+* Classification Results: Displays detection results with corresponding scores.<br/>
 
 # Technologies Used
 . Backend: Django
