@@ -47,3 +47,9 @@ This project implements a Fake News Detection System using Natural Language Proc
 
 ## License
 This project is licensed under the MIT License.
+
+
+## **ScreenShots :**
+1. **Home Screen**
+   
+
