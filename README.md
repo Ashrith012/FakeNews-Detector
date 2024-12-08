@@ -12,19 +12,19 @@ This project implements a Fake News Detection System using Natural Language Proc
 * Classification Results: Displays detection results with corresponding scores.<br/>
 
 # Technologies Used
-. Backend: Django
-. NLP Libraries:
-  . TextBlob
-  . NLTK (Natural Language Toolkit)
-. Frontend: HTML, CSS
-. File Handling: Django's FileSystemStorage
+* Backend: Django <br/>
+* NLP Libraries:<br/>
+   * TextBlob<br/>
+   * NLTK (Natural Language Toolkit)<br/>
+* Frontend: HTML, CSS<br/>
+* File Handling: Django's FileSystemStorage<br/>
 
 # How It Works
-1. Upload News Document: Users can upload a text document containing news articles.
-2. Processing and Analysis:
-    . Detects quotes, verbs, and named entities using NLP.
-    . Calculates a Fake Rank Score for each article based on these features.
-3. Classification:
-    . Articles with a score > 0.90 are classified as "Real News."
-    . Articles with a score ≤ 0.90 are classified as "Fake News."
-4. Results Display: The analysis results are presented in a tabular format.
+- Upload News Document: Users can upload a text document containing news articles.
+- Processing and Analysis:
+   - Detects quotes, verbs, and named entities using NLP.
+   - Calculates a Fake Rank Score for each article based on these features.
+- Classification:
+    - Articles with a score > 0.90 are classified as "Real News."
+    - Articles with a score ≤ 0.90 are classified as "Fake News."
+- Results Display: The analysis results are presented in a tabular format.
