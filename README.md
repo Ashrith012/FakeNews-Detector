@@ -33,5 +33,11 @@ This project implements a Fake News Detection System using Natural Language Proc
    - Articles with a score ≤ 0.90 are classified as "Fake News."  
 
 4. **Results Display**  
-   - The analysis results are presented in a tabular format.  
+   - The analysis results are presented in a tabular format.
+
+## File Structure
+* views.py: Contains the core logic for handling requests, news detection, and classification.
+* Templates: HTML files for rendering pages such as login, upload, and results display.
+* Static: CSS and other static assets.
+
 
