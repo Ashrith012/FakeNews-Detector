@@ -21,7 +21,7 @@ This project implements a Fake News Detection System using Natural Language Proc
 
 # How It Works
 1 Upload News Document: Users can upload a text document containing news articles.<br/>
-2 Processing and Analysis:<br/>
+2 Processing and Analysis:
    - Detects quotes, verbs, and named entities using NLP.
    - Calculates a Fake Rank Score for each article based on these features.<br/>
 3 Classification:
